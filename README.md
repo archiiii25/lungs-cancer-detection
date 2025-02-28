@@ -1,5 +1,4 @@
 # lungs-cancer-detection
-# lungs-cancer-detection
 # End-to-End-Chest-Cancer-Classification-using-MLflow-DVC
 ## Workflows
 1. Update config.yaml
